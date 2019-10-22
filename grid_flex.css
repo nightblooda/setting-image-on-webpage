@@ -45,13 +45,3 @@ body{
   background-color: #666;
   color: white;
 }
-
-.btn.notactive{
-  background-color: #fff;
-  color: #663;
-  height: 34px;
-  text-emphasis: none;
-  text-align: center;
-  border: 1px solid #ddd;
-  padding: 7px;
-}
