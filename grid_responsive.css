@@ -18,7 +18,6 @@ body{
   padding: 0 4px;
 }
 
-/* create four equal columns that sits next to each other*/
 
 .column{
   flex: 25%;
